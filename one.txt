@@ -1,1 +1,3 @@
-napisik nowy
+<<<<<<< HEAD
+zupelnie nowy napisik
+>>>>>>> f2
